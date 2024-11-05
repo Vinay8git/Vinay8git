@@ -26,7 +26,7 @@ I’m an aspiring Software Engineer and a pre-final year Computer Science studen
                   
 ### Socials
 
-<p align="center">
+<p align="left">
   <a href="https://www.dev.to/vinayyd7" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
@@ -66,9 +66,9 @@ I’m an aspiring Software Engineer and a pre-final year Computer Science studen
 
 ### Badges
 
-<h3 align="center"><b>My GitHub Stats</b></h3>
+<h3 align="left"><b>My GitHub Stats</b></h3>
 
-<p align="center">
+<p align="left">
   <a href="http://www.github.com/Vinay8git">
     <img src="https://github-readme-stats.vercel.app/api?username=Vinay8git&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vinay8git's GitHub stats" />
   </a>
