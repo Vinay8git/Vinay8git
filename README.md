@@ -8,8 +8,8 @@ I’m an aspiring Software Engineer and a pre-final year Computer Science studen
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [vinayyd277@gmail.com](mailto:vinayyd277@gmail.com)
-*   🚀  I'm currently working on [Desktop Automation](http://github.com/Vinay8git)
-*   🧠  I'm learning MERN, Spring Boot & Gen AI
+*   🚀  I'm currently working on [Distributed Systems](http://github.com/Vinay8git)
+*   🧠  I'm learning MERN, Spring Boot, Blockchain & Gen AI
 *   🤝  I'm open to collaborating on Interesting Projects
 *   ⚡  Seeking Internship Opportunities | Pre-Final Year
 
